@@ -1,5 +1,5 @@
 {
-  "name": "ts-jest-transformer-example",
+  "name": "ts-jest-file-transformer",
   "version": "1.0.0",
   "main": "src/index.js",
   "license": "MIT",
